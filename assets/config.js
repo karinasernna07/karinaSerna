@@ -3,7 +3,7 @@
 // Variables:
 // Json con la metadata de los atributos de las personas:
 const persona = {
-	nombre: "Karina Isabel Serna Hernández",
+	nombre: "Karina Serna Hernández",
 	profesion: "Desarrollador Junior",
 	correo: "kserna9005@gmail.com",
 	telefono: "+57 301 3151498",
@@ -13,7 +13,7 @@ const persona = {
 		gestion: ['Liderazgo, ','Evaluación de Proyectos, ','Responsabilidad, ','Estrategias de Gestión, ','Análisis para toma de Decisiones'],
 		tecnicas: ['Sistemas']
 	},
-	hobbies: ['Escuchar Música, ', 'Ver Peliculas, ', 'Ver Series, ', 'Viajar']
+	hobbies: ['Escuchar Música ', 'Ver Peliculas ', 'Ver Series ', 'Viajar']
 }
 
 // Dejar intácto a partir de aquí.
